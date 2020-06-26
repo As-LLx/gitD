@@ -28,3 +28,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 综合1和2code
 
 2 继续code
+
+class li{
+liu
+liu
+liu
+}
