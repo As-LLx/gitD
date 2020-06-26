@@ -22,23 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-1 code 
-
-综合1和2code
-
-继续1 code
-2 继续code
-
-2 继续继续写
-
-class li{
-li
-li
-li
-}
-
-class li{
-liu
-}
-
