@@ -30,12 +30,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 继续1 code
 2 继续code
 
-class li{
-li
-li
-li
-}
-
-class li{
-liu
-}
