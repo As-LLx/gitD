@@ -25,4 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 1 code 
 
-2 code
+综合1和2code
+
